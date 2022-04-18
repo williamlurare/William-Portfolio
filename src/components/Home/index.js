@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
-import Logo from './Logo'
 import './index.scss'
 
 const Home = () => {
@@ -67,7 +66,6 @@ const Home = () => {
                 - Core PHP & MySQL & Java || React.js || React Native 
                 </h3>
             </div>
-            <Logo />
         </div>
         <Loader type="pacman" />
         </>
