@@ -1,11 +1,9 @@
 import { useEffect, useState } from 'react'
 import {
   faBootstrap, 
-  faGit, 
   faGitAlt, 
   faHtml5, 
   faJava, 
-  faJsSquare, 
   faPhp, 
   faReact
 } from '@fortawesome/free-brands-svg-icons'
